@@ -1,6 +1,6 @@
 ################################################################################
 # Copyright (C) 2015 by Samuel Bachmann                                        #
-# samuel.bachmann@gmail.com                                                    #
+# sbachmann@anybotics.com                                                      #
 #                                                                              #
 # This program is free software; you can redistribute it and/or modify         #
 # it under the terms of the Lesser GNU General Public License as published by  #
@@ -29,7 +29,7 @@ class AboutDialog(gtk.AboutDialog):
         self.set_logo(b)
         self.set_license_type(gtk.License.BSD)
         self.set_copyright("COPYRIGHT @ ETH RSL 2016")
-        self.set_authors(["Samuel Bachmann <samuel.bachmann@gmail.com>"])
+        self.set_authors(["Samuel Bachmann <sbachmann@anybotics.com>  "])
         self.set_program_name("Any Ping")
         self.set_version("v0.7")
         self.set_website("http://www.rsl.ethz.ch")

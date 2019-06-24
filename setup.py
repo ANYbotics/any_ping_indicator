@@ -2,7 +2,7 @@
 
 ################################################################################
 # Copyright (C) 2015 by Samuel Bachmann                                        #
-# samuel.bachmann@gmail.com                                                    #
+# sbachmann@anybotics.com                                                      #
 #                                                                              #
 # This program is free software; you can redistribute it and/or modify         #
 # it under the terms of the Lesser GNU General Public License as published by  #
@@ -37,7 +37,7 @@ setup(name="any_ping_indicator",
       description="Any Ping Indicator for Ubuntu",
       url='https://github.com/leggedrobotics/any_ping_indicator',
       author='Samuel Bachmann',
-      author_email='samuel.bachmann@gmail.com',
+      author_email='sbachmann@anybotics.com',
       license='GPL',
       packages=["any_ping_applet"],
       data_files=[

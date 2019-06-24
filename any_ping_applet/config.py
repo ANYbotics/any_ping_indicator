@@ -1,6 +1,6 @@
 ################################################################################
 # Copyright (C) 2015 by Samuel Bachmann                                        #
-# samuel.bachmann@gmail.com                                                    #
+# sbachmann@anybotics.com                                                      #
 #                                                                              #
 # This program is free software; you can redistribute it and/or modify         #
 # it under the terms of the Lesser GNU General Public License as published by  #
